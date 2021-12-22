@@ -1,6 +1,18 @@
 {
-"webmaster":"webmaster",
-"protc":"protc",
-"obsc":"obsc",
-"anonymiz":"anonymiz",
+  "webmaster":"webmaster",
+  "protc":"protc",
+  "obsc":"obsc",
+  "anonymiz":"anonymiz",
+  "@contac":"@contac",
+  "host":"host",
+  "gandi":"gandi",
+  "qq.com":"qq.com",
+  "naver.com":"naver.com",
+  "hxmail.com":"hxmail.com",
+  "pro.net":"pro.net",
+  "xell.hk":"xell.hk",
+  "corp.com":"corp.com",
+  "wix":"wix",
+  ".ch":".ch",
+  ".br":".br"
 }
