@@ -6,7 +6,7 @@
     "priv": "priv",
     "regi": "regi",
     "webmaster": "webmaster",
-    "protc": "protc",
+    "protect": "It will remove all protected keyword",
     "obsc": "obsc",
     "anonymiz": "anonymiz",
     "@contac": "@contac",
@@ -22,6 +22,5 @@
     ".ch": ".ch",
     ".br": ".br",
     ".html": ".html",
-    "163": "163 chinies domains",
-    "protect": "It will remove all protected keyword"
+    "163": "163 chinies domains"
 }
